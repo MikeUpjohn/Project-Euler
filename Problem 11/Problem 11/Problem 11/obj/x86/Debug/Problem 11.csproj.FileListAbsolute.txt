@@ -1,0 +1,4 @@
+C:\_projects\mikeofmacc\Project Euler\Problem 11\Problem 11\Problem 11\bin\Debug\Problem 11.exe
+C:\_projects\mikeofmacc\Project Euler\Problem 11\Problem 11\Problem 11\bin\Debug\Problem 11.pdb
+C:\_projects\mikeofmacc\Project Euler\Problem 11\Problem 11\Problem 11\obj\x86\Debug\Problem 11.exe
+C:\_projects\mikeofmacc\Project Euler\Problem 11\Problem 11\Problem 11\obj\x86\Debug\Problem 11.pdb
